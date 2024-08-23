@@ -1,0 +1,17 @@
+python==3.10.12
+ollama==0.3.5
+PyPDF2==3.0.1
+streamlit==1.37.1
+streamlit_folium==0.22.0
+huggingface-hub==0.24.5
+joblib==1.4.2
+scikit-learn==1.5.1
+scipy==1.14.0
+seaborn==0.13.2
+setuptools==65.5.0
+tokenizers==0.19.1
+transformers==4.44.0
+matplotlib==3.9.1
+langchain-community==0.2.11
+pandasai==2.2.14
+pandas==2.1.0
